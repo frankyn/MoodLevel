@@ -1,0 +1,7 @@
+MoodLevel:
+
+Give it a list of words and see how it changes the mood of the algorithm.
+
+What I'm trying to achieve is a type of mood level based off a sentence a person can type during a conversation. Basing off of this sentence we can accomplish if the conversation is negative or positive without knowing what the conversation is about.
+
+
